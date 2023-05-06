@@ -19,7 +19,7 @@ The downloaded CSV files are stored in Google Cloud Storage. Google BigQuery is 
 
 # Output 
 
-[PowerBi_Flight_Punctuality] ./PowerBi_Flight_Punctuality.png
+[PowerBi_Flight_Punctuality] PowerBi_Flight_Punctuality.png
 
 # Teaser!
 
